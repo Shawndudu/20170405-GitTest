@@ -19,7 +19,7 @@ namespace _20170405_GitTest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string text = "123";
+            string text = "456";
 
         }
     }
