@@ -16,5 +16,10 @@ namespace _20170405_GitTest
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string text = "456";
+        }
     }
 }
