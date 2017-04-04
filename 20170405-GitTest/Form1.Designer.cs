@@ -34,11 +34,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(47, 63);
+            this.label1.Location = new System.Drawing.Point(67, 64);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 15);
+            this.label1.Size = new System.Drawing.Size(31, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "master";
+            this.label1.Text = "123";
             // 
             // Form1
             // 
